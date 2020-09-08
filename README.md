@@ -1,15 +1,15 @@
-# (TODO: your game's title)
+# Bob
 
-Author: (TODO: your name)
+Author: Alyssa Lee
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: You are a knife-throwing hairdresser and all of your customers want the lastest trend: a bob! Using only your knife you must cut as much hair as possible without killing too many people. 
 
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
-How To Play:
+How To Play: 
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Move your mouse to angle your weapon and left clock to throw. Try to get the hair short, but avoid cutting their poor heads :( 
 
 This game was built with [NEST](NEST.md).
